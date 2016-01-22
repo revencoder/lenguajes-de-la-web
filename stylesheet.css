@@ -1,0 +1,24 @@
+/*Sorry no escogí los mismos colores que me propusieron en el ejercicio, GRACIAS TOTALES*/
+
+h1 {
+		color:red;
+		font-size: 20px;
+		font-family: arial;
+		font-weight: 500;
+	}
+
+	img {
+		border: 1px solid blue;
+
+	}
+
+	p{
+		background-color: yellow;
+		font-size: 16px;
+	}
+
+	h2{
+		background-color: gray;
+		font-size: 14px;
+
+	}
